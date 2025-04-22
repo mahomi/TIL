@@ -1,4 +1,4 @@
-# GIT 오늘 배운거 정리
+# GIT 오늘 배운거 정리 - 2025.04.22
 
 git bash에서 ctrl + 하면 글자 커짐
 * 파일 만들기 touch newfile.txt
