@@ -9,6 +9,7 @@ git bash에서 ctrl + 하면 글자 커짐
 * Github vs Gitlab vs Bitbucket
 	* Gitlab : 회사내에 설치 가능
 	* Bitbucket : 일정관리 등이랑 연동해서 쓸때
+* 레포생성시 MIT License (완전 자유롭게 사용가능한 라이센스)
 
 ```bash
 # 현재 설정 확인
@@ -62,12 +63,9 @@ https://www.toptal.com/developers/gitignore/api/macos,windows,python,vim,visuals
 ## .ipynb
 파비콘(오른쪽 상단 메뉴 버튼)에 Feature preview > Rich Jupyter Notebook Diffs
 
-* 레포생성시 MIT License (완전 자유롭게 사용가능한 라이센스)
-* markdownlint 플러인 깔면 좀 더 쉽게 마크다운 작성가능
 ## pre-commit
 * pep 8 파이썬 코딩 스타일가이드
 	* https://peps.python.org/pep-0008/
-	* python 만든사람이 저자
 
 ## branch
 ```bash
